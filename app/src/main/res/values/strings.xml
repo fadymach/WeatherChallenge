@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather Challenge</string>
+    <string name="auth_key">767e78306fc971eb7328b430ee34b67a</string>
+    <string name="weather_url">http://api.openweathermap.org/data/2.5/group?id=</string>
+    <string name="icon_url">http://openweathermap.org/img/w/%1$s.png</string>
+
+
+</resources>
